@@ -1,8 +1,8 @@
 class MockServiceCliUltra < Formula
   desc "Local Mock/Static/SPA server, HTTP request proxy, API overview page and File explorer (Ultra archive formats)"
   homepage "https://github.com/chandq/mock-service-cli"
-  url "https://registry.npmjs.org/mock-service-cli-ultra/-/mock-service-cli-ultra-4.9.0.tgz"
-  sha256 "bfb46ca0ade0901af9f3f2e55e27201da40046308e18513831e011cbf1ef045e"
+  url "https://registry.npmjs.org/mock-service-cli-ultra/-/mock-service-cli-ultra-4.9.1.tgz"
+  sha256 "271a7897997a2f76edcef179af87fe64013288e8abe3ffc8ae97484017651260"
   license "MIT"
 
   depends_on "node"
