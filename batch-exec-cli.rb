@@ -1,8 +1,8 @@
 class BatchExecCli < Formula
-  desc "Efficiently iterate through directories and execute commands with progress display and parallel execution"
+  desc "🦅 Efficiently iterate through directories and execute commands with progress display and parallel execution"
   homepage "https://github.com/chandq/batch-exec-cli"
-  url "https://registry.npmjs.org/batch-exec-cli/-/batch-exec-cli-1.5.1.tgz"
-  sha256 "cd889014dae9b954ea93fe8eca69419e32300e5d80a86c716ff15fac0c0b3ade"
+  url "https://registry.npmjs.org/batch-exec-cli/-/batch-exec-cli-1.5.2.tgz"
+  sha256 "6bb34943b7c8b2eb7858e976b80b8dc4c80f9a5ed0e3ee6658175ba29d521606"
   license "MIT"
 
   depends_on "node"
