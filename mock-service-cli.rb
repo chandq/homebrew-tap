@@ -1,8 +1,8 @@
 class MockServiceCli < Formula
   desc "Local Mock/Static/SPA server, HTTP request proxy, API overview page and File explorer"
   homepage "https://github.com/chandq/mock-service-cli"
-  url "https://registry.npmjs.org/mock-service-cli/-/mock-service-cli-4.12.0.tgz"
-  sha256 "968a4b4a7b2058ffd9f186ed11d3972a886fb3070e730828429504d51d779452"
+  url "https://registry.npmjs.org/mock-service-cli/-/mock-service-cli-4.13.0.tgz"
+  sha256 "afc154c07845f45a86b5d20a4ab9eb47ce755b267873944ec30570792145848e"
   license "MIT"
 
   depends_on "node"
